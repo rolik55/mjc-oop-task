@@ -1,3 +1,5 @@
+package main.java.mjc;
+
 public class Euro {
     private int value;
 

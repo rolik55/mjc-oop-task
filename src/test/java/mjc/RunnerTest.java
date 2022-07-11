@@ -1,3 +1,6 @@
+package test.java.mjc;
+
+import main.java.mjc.*;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

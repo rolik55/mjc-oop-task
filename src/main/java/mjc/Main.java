@@ -1,3 +1,5 @@
+package main.java.mjc;
+
 import java.util.Locale;
 
 public class Main {

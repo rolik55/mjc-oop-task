@@ -1,3 +1,7 @@
+package test.java.mjc;
+
+import main.java.mjc.Product;
+import main.java.mjc.PurchaseWithExpenses;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

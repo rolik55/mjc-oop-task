@@ -1,3 +1,5 @@
+package main.java.mjc;
+
 import java.util.Locale;
 
 public abstract class AbstractPurchase implements Comparable<AbstractPurchase> {
@@ -14,7 +16,7 @@ public abstract class AbstractPurchase implements Comparable<AbstractPurchase> {
         return product.getPrice() * amount / 100;
     }
 
-    // "each NON CONSTANT field" - Product is constant?
+    // "each NON CONSTANT field" - main.java.mjc.Product is constant?
     @Override
     public String toString() {
         String formattedCost = String.format(Locale.ROOT, "%.02f", cost);

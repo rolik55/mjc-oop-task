@@ -1,3 +1,5 @@
+package main.java.mjc;
+
 public class PurchaseWithExpenses extends AbstractPurchase {
     private int expenses;
 
