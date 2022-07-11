@@ -1,3 +1,5 @@
+package main.java.mjc;
+
 public class PurchaseAllDiscounted extends AbstractPurchase {
     private int discount;
 

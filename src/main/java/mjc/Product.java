@@ -1,3 +1,5 @@
+package main.java.mjc;
+
 public class Product {
     private String name;
     private Euro price;

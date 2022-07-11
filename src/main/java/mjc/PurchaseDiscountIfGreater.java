@@ -1,3 +1,5 @@
+package main.java.mjc;
+
 public class PurchaseDiscountIfGreater extends AbstractPurchase {
     private double discount;
     private int requiredAmount;

@@ -1,3 +1,7 @@
+package test.java.mjc;
+
+import main.java.mjc.Product;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class ProductTest {
